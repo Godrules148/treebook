@@ -1,0 +1,7 @@
+Thu, 07 Nov 2013 09:20:52 -0600
+doc/README_FOR_APP	Thu, 31 Oct 2013 00:38:20 -0500
+app/controllers/application_controller.rb	Thu, 31 Oct 2013 00:38:19 -0500
+app/controllers/statuses_controller.rb	Thu, 31 Oct 2013 00:38:19 -0500
+app/helpers/application_helper.rb	Thu, 31 Oct 2013 00:38:19 -0500
+app/helpers/statuses_helper.rb	Thu, 31 Oct 2013 00:38:19 -0500
+app/models/status.rb	Thu, 31 Oct 2013 00:38:19 -0500
